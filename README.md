@@ -1,2 +1,2 @@
-# android-notlar-18.02.2019
+# android-notlari-18.02.2019
 android
